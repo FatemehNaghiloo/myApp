@@ -18,5 +18,9 @@ public class MainActivity extends AppCompatActivity {
         c = a+b;
 
         return c;
+        
+        //comment1
+        //comment2
+        //comment3
     }
 }
