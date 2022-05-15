@@ -13,7 +13,10 @@ public class MainActivity extends AppCompatActivity {
     }
     
     
-    public void myFunction(){
-        int a;
+    public int myFunction(){
+        int a = 5, b = 2, c;
+        c = a+b;
+
+        return c;
     }
 }
