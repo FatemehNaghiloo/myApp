@@ -13,6 +13,6 @@ public class Main2Activity extends AppCompatActivity {
 
         //comment1
 
-        //add comment2
+        //comment2
     }
 }
